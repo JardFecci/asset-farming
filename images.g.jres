@@ -1,0 +1,173 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBmAAAACWlplpYGD2ZpZmZvZmlvmVaZKZ+WaW+ZVpIpn5ZpZVVWUikvkAllVVZSIi+QCW+ZVpIpn5Zpb5lWmSmflmYPZmlmZm9mYAAACWlplpYAAAAGZgZgZgAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightFront"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBmAAAACWlplpYGBmZpZmZvZmlpmZaZKZ+WaWmZlpIpn5ZmZmZmYiYvYAZmZmZiJi9gCWmZlpIpn5ZpaZmWmSmflmYGZmlmZm9mYAAACWlplpYAAAAGZgZgZgAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightBack"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGD1VQUiIgYAlvmVKSKS+WCW+ZkpIpn5YJaZmSmSmflmlpmZKZKZ+WaWmZlpYmb2ZpaZmZaWmWkAYGZmlmZmBgAAAABmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightLeft"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBgAAAACWlplpAGD2ZpZmZvZmlvmVaZKZ+WaW+ZVpIpn5ZpZVVWUikvkAllVVZSIiZmaW+ZVpImmZaZb5lWmSaZlpYPZmlmZmmWkAAACWlplmBgAAAGZgZgYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightFrontWalk1"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBgAAAACWlplmBmD2ZpZmZplplvmVaZJpmWmW+ZVpImmZaZZVVWUiImZmllVVZSKS+QCW+ZVpIpn5Zpb5lWmSmflmYPZmlmZm9mYAAACWlplpAAAAAGZgZgYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightFrontWalk2"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBgAAAACWlplpAGBmZpZmZvZmlpmZaZKZ+WaWmZlpIpn5ZmZmZmYiYvYAZmZmZiJi9gCWmZlpIpn5BpaZmWmSmfkGYGZmlmZm9gYAAACWlplpAAAAAGZgZgYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightBackWalk1"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmBgAAAACWlplpAGBmZpZmZvYGlpmZaZKZ+QaWmZlpIpn5BmZmZmYiYvYAZmZmZiJi9gCWmZlpIpn5ZpaZmWmSmflmYGZmlmZm9mYAAACWlplpAAAAAGZgZgYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightBackWalk2"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAAAAGBmZpZmZgYAlpmZlpaZaWaWmZlpYmb2ZpaZmSmSmflmlpmZKZKZ+WCW+ZkpIpn5AJb5lSkikmlmYPVVBSIiZmYAAAAAAABmBgAAAAAAYGYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightRightWalk"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgZgAAAAAAAABmBmD1VQUiImZmlvmVKSKSaWaW+ZkpIpn5AJaZmSmSmflglpmZKZKZ+WaWmZlpYmb2ZpaZmZaWmWlmYGZmlmZmBgAAAABmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightLeftWalk"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmBmZgAAAACWlpmZZmD2ZpZmmZlmlvmVaZJmZmaW+ZVpIpn5ZpZVVWUikvlgllVVZSIi+QCW+ZVpIpn5Zpb5lWmSmflmYPZmlmZm9mYAAACWlmkGAAAAAGZmlmkAAAAAAABgaQAAAAAAAAAGAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightFrontAttack"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAGAAAAAAAAYGkAAAAAZmCWaQAAAACWlmkGYGBmZpZmZvZmlpmZaZKZ+WaWmZlpIpn5ZmZmZmYiYvZgZmZmZiJi9gCWmZlpIpn5ZpaZmWmSmflmYGZmlmZm9mYAYJmWlgYAAAAAZmZmAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightBackAttack"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAAAAGBmZpZmZgYAlpmZlpaZaQCWmZlpYmb2ZpaZmSmSmflmlpmZKZKZ+WaW+ZkpIpn5YJb5lSkikvlgYPVVBSIiBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightRight"
+    },
+    "image13": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAAAYGBmZpZmZgZmlpmZlpZpaWaWmZlpYmn2ZpaZmSliaflglpmZKWJp+QCW+ZkpYmn5Zpb5lSliaflmYPVVBWJpBmYAAAAAYGkAYAAAAAAABgBgAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightAttackRight"
+    },
+    "image14": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAGAAAAAAYGkAYGD1VQUiIgZmlvmVKSKS+WaW+ZkpIpn5ZpaZmSmSmfkAlpmZKZKZ+WCWmZlpYmb5ZpaZmZaWafZmYGZmlmaZaWYAAABmAGZpYAAAAAAAAGYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightAttackLeft"
+    },
+    "image15": {
+        "data": "hwQQABAAAABgZmZmAAAAAJaZmZkGAAAAYGZmZmkAAGAAAACWlgYAYGD2ZpZmZvZmlvmVaZKZ+WaW+ZVpIpn5ZpZVVWUikvkAllVVZSIi+QCW+ZVpIpn5Zpb5lWmSmflmYPZmlmZm9mYAAACWlgYAYGBmZmZpAABglpmZmQYAAABgZmZmAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightVictory2"
+    },
+    "image16": {
+        "data": "hwQQABAAAAAAYGZmAAAAAACWmZkGAAAAAGBmZmkAAGAAAACWlgYAYGD2ZpZmZvZmlvmVaZKZ+WaW+ZVpIpn5ZpZVVWUikvkAllVVZSIi+QCW+ZVpIpn5Zpb5lWmSmflmYPZmlmZm9mYAAACWlgYAYABgZmZpAABgAJaZmQYAAAAAYGZmAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightVictory"
+    },
+    "image17": {
+        "data": "hwQQABAAAAAAAGBmZgYAAAAAlpmZaQAAAAAfX/XxAAAAAPFRFR8AAAAAH1/18QAAAACWWZVpAAAAZpZZlWlmAACWaWZmlmkAAGAmIiJiBgAAlpYiImlpAACWlimSaWkAAJaWKZlpaQAAlpaZmWlpAABg/////wYAAABmBmBmAAAAZmYGYGZmAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KnightDeath"
+    },
+    "image18": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmYGAAAAAGB3d2cAAAAAdnF3dwYAAGAXX1V3BgAAdhdVVXUGAAB2d1VVdQYAAHZ3VVV1BgAAdhdVVXUGAABgF19VdwYAAAB2cXd3BgAAAGB3d2cAAAAAAGZmBgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Slime"
+    },
+    "image19": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAGAAAAAAAAdmcAAAAAAGBxdwYAAAAA9lF1BgAAAAAWVVUGAAAAAFZVVQYAAAAAVlVVBgAAAAAWVVUGAAAAAPZRdQYAAAAAYHF3BgAAAAAAdmcAAAAAAABgBgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SlimeMove"
+    },
+    "image20": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAICIAAAAAACACAAAAAAAAAgAAACgqgoAgAgAAJqZqQAAgAigqZmaamZmBpqZqpmpmZkGmpmqmamZmQagqZmaamZmBgCamakAAIAIAKCqCgCACAAAAAAAAAgAAAAAAAAAgAgAAAAAAAAAgIgAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Virus"
+    },
+    "image21": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAiIgAAAAAAAgAAAAAqqoAiAgAAKCZmQoAgAgAmpqpqWZmZqCZqZqZmplpoJmpmpmamWkAmpqpqWZmZgCgmZkKAIAIAACqqgCICAAAAAAAAAgAAAAAAAAAgIiIAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "VirusPrep"
+    },
+    "image22": {
+        "data": "hwQQABAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAgAAAAAAAAAgAgAAACgqgoAgAgAAJqZqQAAgAigqZmaamZmBpqZqpmpmZkGmpmqmamZmQagqZmaamZmBgCamakAAIAIAKCqCgCACAAAAAAAgAgAAAAAAAAIAAAAAAAAAIAAAAAAAAAAAAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "VirusJump"
+    },
+    "image25": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAREQEAAAAAERERsQAAAAARERERGxEAABERERERERvMERERscEcG8wRERHBwRsAzBHMwbHADADAEMzBAcALAMAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyRight"
+    },
+    "image24": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAMAAAAAAwAwAwBAREQGxsQDMERERsbGxAMwRERGxEREAzBEREbERERsAERERsRERGwARERGxEREAzBEREbGxsQDMEBERAbGxAMwAAAAAwAsAwAAAAAAADADAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyBack"
+    },
+    "image23": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAMAAAAAAwAsAwBAREQHBHADMEcwbwcEbAMwRzBuxwRwAzBERwcERERsAERHBsRERGwARzBvBwRwAzBHMG7HBGwDMEBERAcEcAMwAAAAAwAsAwAAAAAAADADAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyFront"
+    },
+    "image26": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAABDMwQHACwDAEczBscAMAMARERHBwRsAzBEREbHBHBvMERERERERG8wRERERGxEAABEREbEAAAAAEBERAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyLeft"
+    },
+    "image27": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAwAsAABAREQHBHMzMEcwbwcEbwMERzBuxwRzMzBERwcERERsAERHBsRERGwARzBvBwRwAzBHMG7HBGwDMEBERAcEcAAAAAAAAwAsAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyFrontWalk1"
+    },
+    "image28": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAwAsAABAREQHBHAAAEcwbscEbAMwRzBvBwRwAzBERwbERERsAERHBwRERGwARzBuxwRzMzBHMG8HBG8DBEBERAcEczMwAAAAAwAsAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyFrontWalk2"
+    },
+    "image29": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAwAwAABAREQGxsQDAERERsbGxAMwRERGxEREAzBEREbERERsAERERsRERGwARERGxERHMDBEREbGxscwMEBERAbGxzAAAAAAAwAsAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyBackWalk1"
+    },
+    "image30": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAwAsAABAREQGxscwAERERsbGxzAwRERGxERHMDBEREbERERsAERERsRERGwARERGxEREAzBEREbGxsQDMEBERAbGxAMAAAAAAwAwAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyBackWalk2"
+    },
+    "image31": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAREQEAAAAAERERsQAAAMwRERERGxEAzBERERERERvMERERscEcG8ARERHBwRsAABHMwbHADMDMEMzBAcALzAwAAAAAAAzMAAAAAAAAwAwAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyRightWalk"
+    },
+    "image32": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADADAAAAAAAAAzMABDMwQHAC8wMEczBscAMwMwRERHBwRsAABEREbHBHBvAERERERERG8wRERERGxEAzBEREbEAAADMEBERAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SkellyLeftWalk"
+    },
+    "": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong0",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
